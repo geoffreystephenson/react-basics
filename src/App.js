@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  const name = "David Smith"
+  const name = "Geoffrey Stephenson"
   return (
     <>
     <div className="App">
